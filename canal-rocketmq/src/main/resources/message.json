@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "username": "wt1"
+    }
+  ],
+  "database": "canaldb",
+  "es": 1680267742000,
+  "id": 2,
+  "isDdl": false,
+  "mysqlType": {
+    "id": "int",
+    "username": "varchar(255)"
+  },
+  "old": [
+    {
+      "username": "wt2"
+    }
+  ],
+  "pkNames": [
+    "id"
+  ],
+  "sql": "",
+  "sqlType": {
+    "id": 4,
+    "username": 12
+  },
+  "table": "user",
+  "ts": 1680267742743,
+  "type": "UPDATE"
+}
